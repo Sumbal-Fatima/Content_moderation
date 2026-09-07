@@ -2,3 +2,4 @@ gradio
 groq 
 python-dotenv
 pydub
+streamlit
